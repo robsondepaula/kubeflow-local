@@ -12,7 +12,7 @@ Once finished working with MiniKF, suspend the VM:
 ```
 vagrant suspend
 ```
-So you resume your work later persisting the setup and data.
+So that you can resume your work later persisting the setup and data.
 ```
 vagrant up
 ```
